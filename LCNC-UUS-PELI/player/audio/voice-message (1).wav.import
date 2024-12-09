@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wi1e7pjqb64n"
+path="res://.godot/imported/voice-message (1).wav-c8ba61c6e161287c35c7c1b7e5d8d173.sample"
+
+[deps]
+
+source_file="res://player/audio/voice-message (1).wav"
+dest_files=["res://.godot/imported/voice-message (1).wav-c8ba61c6e161287c35c7c1b7e5d8d173.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
